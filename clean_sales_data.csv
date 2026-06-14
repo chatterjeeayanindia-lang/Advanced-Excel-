@@ -1,0 +1,86 @@
+Order_ID,Customer_Name,Region,Product,Status,Quantity,Unit_Price,Customer_Rating,Sales_Rep,Order_Date
+ORD-1035,Unknown,North,Tablet,Cancelled,1,1140.08,3.0,Carol White,
+ORD-1031,Amy Davis,Central,Printer,Completed,7,696.57,2.0,Eva Green,
+ORD-1079,Chris Evans,Central,Laptop,Pending,3,1268.73,3.0,Alice Johnson,2024-09-09
+ORD-1017,Ethan Hunt,Central,Printer,Pending,19,858.24,2.0,Alice Johnson,
+ORD-1092,Fiona Shaw,Central,Mouse,Cancelled,8,709.31,2.0,Carol White,2024-10-21
+ORD-1011,Chris Evans,West,Mouse,Completed,18,1333.92,1.0,David Brown,2024-06-01
+ORD-1086,John Doe,Central,Mouse,Processing,10,171.72,3.0,Alice Johnson,
+ORD-1080,Tom Clark,South,Printer,Cancelled,10,1383.34,4.0,Carol White,2024-08-12
+ORD-1072,Jane Smith,North,Monitor,Processing,15,757.93,4.0,Eva Green,2024-12-18
+ORD-1007,Jane Smith,Central,Laptop,Cancelled,9,263.98,1.0,Bob Smith,
+ORD-1008,Ethan Hunt,Central,Mouse,Processing,12,1047.05,3.0,Alice Johnson,2024-07-13
+ORD-1038,Chris Evans,East,Monitor,Pending,7,1177.63,4.0,Bob Smith,2024-05-29
+ORD-1044,John Doe,North,Keyboard,Processing,11,536.98,3.0,Bob Smith,2024-12-25
+ORD-1067,Mike Wilson,Central,Printer,Cancelled,7,1261.81,5.0,Carol White,2024-10-18
+ORD-1061,Sara Lee,Central,Laptop,Processing,10,884.75,4.0,Unknown,2024-03-13
+ORD-1037,Jane Smith,East,Mouse,Cancelled,18,452.1,5.0,Carol White,
+ORD-1052,Fiona Shaw,Central,Laptop,Processing,10,529.78,4.0,Carol White,2024-12-04
+ORD-1047,Unknown,South,Laptop,Completed,17,268.7,1.0,David Brown,
+ORD-1005,Sara Lee,South,Monitor,Processing,9,606.77,1.0,Alice Johnson,2024-11-12
+ORD-1046,Ethan Hunt,Central,Printer,Completed,10,166.84,5.0,Bob Smith,2024-02-06
+ORD-1055,Sara Lee,East,Keyboard,Completed,7,1257.69,5.0,Carol White,2024-02-28
+ORD-1026,Fiona Shaw,North,Mouse,Completed,20,691.73,3.0,David Brown,2024-03-21
+ORD-1047,Jane Smith,South,Monitor,Completed,17,268.7,1.0,David Brown,2024-12-17
+ORD-1004,Sara Lee,East,Laptop,Cancelled,11,1091.6,4.0,Eva Green,
+ORD-1087,Amy Davis,South,Monitor,Completed,8,671.49,1.0,Eva Green,2024-05-08
+ORD-1029,Mike Wilson,Central,Tablet,Pending,13,668.77,5.0,Carol White,
+ORD-1019,John Doe,North,Keyboard,Completed,2,225.97,2.0,Carol White,2024-02-20
+ORD-1068,Amy Davis,North,Headphones,Pending,14,830.42,3.0,Bob Smith,2024-05-27
+ORD-1084,John Doe,West,Keyboard,Pending,3,,5.0,David Brown,2024-08-09
+ORD-1057,John Doe,Central,Printer,Pending,13,,1.0,Carol White,
+ORD-1077,Mike Wilson,South,Webcam,Processing,16,1207.31,2.0,Carol White,2024-09-13
+ORD-1090,Jane Smith,East,Monitor,Pending,1,427.23,2.0,Bob Smith,
+ORD-1001,Jane Smith,West,Monitor,Pending,1,710.35,4.0,Carol White,2024-10-12
+ORD-1064,Tom Clark,North,Laptop,Cancelled,1,482.99,2.0,Alice Johnson,2024-03-25
+ORD-1043,Unknown,West,Tablet,Completed,20,390.02,2.0,Eva Green,2024-05-24
+ORD-1010,Fiona Shaw,Central,Monitor,Completed,13,1297.64,1.0,David Brown,2024-08-14
+ORD-1081,Ethan Hunt,East,Keyboard,Processing,17,1472.05,2.0,David Brown,
+ORD-1025,Diana Prince,Central,Mouse,None,14,1145.11,3.0,Carol White,2024-02-11
+ORD-1089,Tom Clark,West,Mouse,Pending,5,313.51,3.0,Bob Smith,2024-02-16
+ORD-1076,Sara Lee,South,Laptop,Pending,17,1019.87,3.0,David Brown,2024-05-19
+ORD-1014,Jane Smith,East,Mouse,Completed,4,1215.96,2.0,David Brown,2024-06-05
+ORD-1062,Jane Smith,West,Keyboard,Pending,13,741.62,3.0,Bob Smith,2024-02-06
+ORD-1034,Sara Lee,North,Laptop,Cancelled,14,702.6,5.0,David Brown,2024-08-18
+ORD-1094,Sara Lee,North,Webcam,Pending,20,1325.48,3.0,Bob Smith,
+ORD-1050,Ethan Hunt,East,Mouse,Cancelled,11,360.23,3.0,Eva Green,2024-11-16
+ORD-1030,Chris Evans,West,Tablet,Cancelled,19,1364.94,1.0,David Brown,2024-02-08
+ORD-1088,Chris Evans,East,Tablet,Processing,7,1306.93,4.0,Alice Johnson,2024-01-14
+ORD-1095,Diana Prince,South,Headphones,Pending,3,453.47,3.0,Alice Johnson,2024-12-10
+ORD-1012,John Doe,Central,Laptop,Processing,11,1178.71,1.0,Unknown,
+ORD-1045,Unknown,East,Headphones,Cancelled,4,1344.89,3.0,Unknown,2024-08-20
+ORD-1091,Sara Lee,West,Laptop,Processing,2,524.66,4.0,Eva Green,2024-12-11
+ORD-1075,Ethan Hunt,Central,Laptop,Pending,7,613.84,3.0,David Brown,2024-07-25
+ORD-1054,Fiona Shaw,South,Monitor,Completed,5,140.29,3.0,Bob Smith,2024-08-05
+ORD-1082,Sara Lee,Central,Laptop,Pending,20,824.48,3.0,Alice Johnson,2024-11-02
+ORD-1006,Unknown,South,Monitor,Pending,3,629.5,5.0,Eva Green,2024-04-25
+ORD-1078,Diana Prince,West,Laptop,Completed,6,1100.06,1.0,Bob Smith,
+ORD-1051,Tom Clark,Central,Laptop,Pending,13,651.56,5.0,Eva Green,2024-10-28
+ORD-1027,Tom Clark,West,Tablet,Cancelled,17,1231.76,2.0,Eva Green,
+ORD-1023,Chris Evans,Central,Tablet,Pending,12,860.44,2.0,Carol White,2024-05-15
+ORD-1042,Fiona Shaw,South,Keyboard,Pending,11,1084.64,5.0,Alice Johnson,2024-12-27
+ORD-1022,Ethan Hunt,South,Printer,Cancelled,14,820.14,5.0,Bob Smith,2024-04-18
+ORD-1033,Mike Wilson,Central,Mouse,Pending,2,1299.17,1.0,Carol White,2024-07-28
+ORD-1063,Chris Evans,North,Tablet,Completed,18,1416.98,3.0,Carol White,
+ORD-1028,John Doe,West,Webcam,Completed,4,1343.43,5.0,Eva Green,2024-03-29
+ORD-1048,Chris Evans,Central,Mouse,Cancelled,10,605.4,5.0,Carol White,2024-04-29
+ORD-1040,Amy Davis,East,Monitor,Processing,14,396.91,2.0,Bob Smith,
+ORD-1085,Sara Lee,South,Mouse,Completed,8,1011.35,4.0,David Brown,2024-06-14
+ORD-1021,Sara Lee,North,Monitor,Cancelled,20,723.73,1.0,David Brown,
+ORD-1073,Fiona Shaw,West,Headphones,Pending,15,445.76,4.0,Carol White,2024-06-04
+ORD-1032,Tom Clark,Central,Laptop,Completed,9,280.78,3.0,Carol White,2024-01-02
+ORD-1013,John Doe,West,Webcam,Completed,1,367.32,2.0,Bob Smith,2024-08-07
+ORD-1065,Diana Prince,East,Tablet,Cancelled,10,615.48,3.0,Alice Johnson,2024-06-06
+ORD-1003,Tom Clark,South,Webcam,Pending,13,884.72,1.0,Carol White,2024-11-06
+ORD-1049,Jane Smith,North,None,Pending,14,271.57,1.0,Eva Green,2024-05-15
+ORD-1066,Amy Davis,East,Headphones,Completed,10,1342.88,2.0,Eva Green,2024-10-31
+ORD-1056,Jane Smith,South,Tablet,Completed,14,614.74,3.0,Bob Smith,2024-10-05
+ORD-1059,Tom Clark,North,Monitor,Cancelled,20,78.32,3.0,Carol White,
+ORD-1024,Sara Lee,West,Monitor,Processing,11,,4.0,Eva Green,2024-12-04
+ORD-1078,Diana Prince,West,Laptop,Completed,6,1100.06,1.0,Bob Smith,
+ORD-1053,Amy Davis,South,Mouse,Processing,18,725.59,3.0,Unknown,
+ORD-1070,Sara Lee,Central,Laptop,Completed,20,1209.81,5.0,Alice Johnson,2024-03-04
+ORD-1069,Amy Davis,South,Tablet,Pending,19,1115.22,5.0,David Brown,2024-08-12
+ORD-1074,Unknown,North,Monitor,Pending,15,754.18,5.0,David Brown,2024-12-24
+ORD-1041,Amy Davis,West,Printer,Cancelled,3,687.82,1.0,Carol White,2024-05-27
+ORD-1002,John Doe,West,Mouse,Cancelled,7,1334.9,3.0,Eva Green,
